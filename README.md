@@ -1,4 +1,4 @@
-Blank HTML App Designer Template for Building Packaged Mobile Web Apps
+TaskList Based App Created by Kyle Zink @ Graphicz-Ink
 ======================================================================
 
 Copyright © 2012-2015, Intel Corporation. All rights reserved.
